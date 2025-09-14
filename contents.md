@@ -13,3 +13,4 @@ quotes: A directory of files containing memorable quotes from movies
 
 
 >>>>>>> add_classics
+I was bad and added a line
